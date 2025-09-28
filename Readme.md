@@ -41,7 +41,6 @@ The main goal of this task was to build a model that can classify consumer compl
   - 1 → Debt collection  
   - 2 → Consumer Loan  
   - 3 → Mortgage  
-  - 4 → Bank account or service  
 
 - Example sample predictions: 
  
@@ -57,5 +56,6 @@ The main goal of this task was to build a model that can classify consumer compl
 
 ### Sample Predictions
 ![Sample Predictions](screenshots/sample_prediction.png)
+
 
 
