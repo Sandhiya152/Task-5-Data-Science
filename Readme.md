@@ -52,10 +52,11 @@ The main goal of this task was to build a model that can classify consumer compl
 ## Results
 
 ### Confusion Matrix
-![Confusion Matrix](screenshots/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### Sample Predictions
-![Sample Predictions](screenshots/sample_prediction.png)
+![Sample Predictions](sample_prediction.png)
+
 
 
 
